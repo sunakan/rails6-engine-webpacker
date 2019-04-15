@@ -5,3 +5,6 @@ default: &default
   public_root_path: ../public
   # use a different sub-folder name
   public_output_path: my-engine-packs
+
+development:
+  <<: *default
