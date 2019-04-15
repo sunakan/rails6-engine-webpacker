@@ -1,7 +1,0 @@
-default: &default
-  # ...
-  # public_root_path could be used to override the path to `public/` folder
-  # (relative to the engine root)
-  public_root_path: ../public
-  # use a different sub-folder name
-  public_output_path: my-engine-packs
